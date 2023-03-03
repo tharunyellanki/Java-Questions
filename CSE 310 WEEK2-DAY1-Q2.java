@@ -1,6 +1,6 @@
-QUESTION 2
+/*QUESTION 2
 Consider that two friends Neha and Nisha are going for shopping .Neha has picked the N number of Items from the Market and Nisha has picked X number of Items from the 
-Market .Find out total numbers of Items ordered by both .
+Market .Find out total numbers of Items ordered by both .*/
 
 import java.io.*;
 import java.util.*;
