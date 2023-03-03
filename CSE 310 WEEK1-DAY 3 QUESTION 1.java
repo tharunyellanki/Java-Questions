@@ -1,4 +1,4 @@
-CSE 310 WEEK1-DAY 3
+/*CSE 310 WEEK1-DAY 3
 1ST QUESTION
 
 During the code-based test of Java, Peter has been assigned a task to implement a class which reads the Account Number(Long), Account Holder Name(String), Gender (M/F)
@@ -9,7 +9,7 @@ displayed is:
 
 Hi Mr./Ms. XXX! Your Account Balance after withdrawl is YYYYY.
 If the amount to be withdrawn is greater than the Current Account Balance, then the message displayed is:
-Hi Mr./Ms. XXX! Insufficient Funds! You can not withdraw AAAAA.
+Hi Mr./Ms. XXX! Insufficient Funds! You can not withdraw AAAAA.*/
 
 import java.io.*;
 import java.util.*;
