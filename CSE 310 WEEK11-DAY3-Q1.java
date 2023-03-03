@@ -1,5 +1,5 @@
 /*CSE 310 WEEK1-DAY 5 
-QUESTION 2
+QUESTION 1
 
 During the code-based test of Java, Peter has been assigned a task to implement a class which reads the Account Number(Long), Account Holder Name(String), Gender (M/F) 
 (Character) and Amount (Integer) to be withdrawn at runtime.
