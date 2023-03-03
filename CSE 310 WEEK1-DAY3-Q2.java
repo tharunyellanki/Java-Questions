@@ -1,5 +1,5 @@
-QUESTION 2
-Alex has got a Mathematical assignment where he has to find whether a given integer N is a Perfect Cube or not.Write a Java program solution to help Alex
+/*QUESTION 2
+Alex has got a Mathematical assignment where he has to find whether a given integer N is a Perfect Cube or not.Write a Java program solution to help Alex*/
 
 import java.io.*;
 import java.util.*;
