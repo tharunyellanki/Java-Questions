@@ -4,7 +4,8 @@ QUESTION 1
 During the code-based test of Java, Peter has been assigned a task to implement a class which reads the Account Number(Long), Account Holder Name(String), Gender (M/F) 
 (Character) and Amount (Integer) to be withdrawn at runtime.
 
-Given that the Current Account Balance is 20000, it is expected to perform the withdrawl if amount to be withdrawn is less than or equal to 20000 and message to be displayed is:
+Given that the Current Account Balance is 20000, it is expected to perform the withdrawl if amount to be withdrawn is less than or equal to 20000 and message to be 
+displayed is:
 
 Hi Mr./Ms. XXX! Your Account Balance after withdrawl is YYYYY.
 
