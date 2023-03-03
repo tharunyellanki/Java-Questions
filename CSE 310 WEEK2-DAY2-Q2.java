@@ -1,8 +1,8 @@
-CSE 310 WEEK2-DAY 2 
+/*CSE 310 WEEK2-DAY 2 
 QUESTION-2
 
 Sonal built up a software code taking ratings on a product. The product is supposed to be rated between 1 to 5. Create a program displaying an error "101" if the rating 
-is not between 1 to 5, else displaying "thanks".
+is not between 1 to 5, else displaying "thanks".*/
 
 import java.io.*;
 import java.util.*;
