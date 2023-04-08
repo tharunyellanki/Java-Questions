@@ -1,5 +1,6 @@
 /*1 QUESTION
-Write a program to take the 2 inputs of integer type from the user. Display the values separated by symbol ‘-’ if the values are positive otherwise display the message “Invalid Input”.
+Write a program to take the 2 inputs of integer type from the user. Display the values separated by symbol ‘-’ if the values are positive otherwise display the message 
+“Invalid Input”.
 // CODE FOR THE QUESTION*/
 
 import java.util.Scanner;
